@@ -29,7 +29,7 @@ Tasks can be removed by clicking the "X" delete button.
 #Screenshots
 <img width="272" height="272" alt="img png" src="https://github.com/user-attachments/assets/0f76653e-2501-4f86-b89e-96887d719c6a" />
 <img width="272" height="272" alt="img2 png" src="https://github.com/user-attachments/assets/de80e387-a621-4593-b713-7559a718da90" />
-<img width="250" height="250" alt="img3 png" src="https://github.com/user-attachments/assets/7e662d47-6345-4898-8824-6c7b4725b696" />
+<img width="272" height="272" alt="img3 png" src="https://github.com/user-attachments/assets/7e662d47-6345-4898-8824-6c7b4725b696" />
 
 #Future Enhancements
 
